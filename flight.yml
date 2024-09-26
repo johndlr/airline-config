@@ -1,4 +1,4 @@
-customer:
+flight:
   message: "Welcome to Aurora Airlines Flight related local APIs "
   contactDetails:
     name: "Juan de la Rosa - Developer"
