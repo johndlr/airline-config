@@ -1,0 +1,8 @@
+reservation:
+  message: "Welcome to Aurora Airlines Reservation related local APIs "
+  contactDetails:
+    name: "Juan de la Rosa - Developer"
+    email: "jdlr@auroralines.com"
+  onCallSupport:
+    - (117) 523-7487
+    - (555) 523-1345
