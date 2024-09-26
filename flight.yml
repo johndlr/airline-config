@@ -1,0 +1,8 @@
+customer:
+  message: "Welcome to Aurora Airlines Flight related local APIs "
+  contactDetails:
+    name: "Juan de la Rosa - Developer"
+    email: "jdlr@auroralines.com"
+  onCallSupport:
+    - (555) 555-1258
+    - (555) 523-1344
