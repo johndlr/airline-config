@@ -1,5 +1,5 @@
 customer:
-  message: "Welcome to Aurora Airlines customer related local APIs "
+  message: "Welcome to Aurora Airlines Customer related local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@auroralines.com"
